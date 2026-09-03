@@ -19,5 +19,5 @@ members = [
 [dependencies]
 mlua = { version = "0.11.1", features = ["macros"] }
 haproxy-api = { version = "0.9.0" }
-maxminddb = { version = "0.26", features = ["unsafe-str-decode"] }
+maxminddb = { version = "0.30", features = ["unsafe-str-decode"] }
 arc-swap = "1.7"
